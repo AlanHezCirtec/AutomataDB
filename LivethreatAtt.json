@@ -1,18 +1,5330 @@
 [
   {
-    "datetime": "16/11/2025 04:30",
-    "origen": "China",
-    "destino": "Mexico",
-    "alarma": "Persistencia",
-    "etapa": "Initial Attempts",
-    "puerto": "22"
+    "datetime": "03/11/2025 22:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Plain Text Passwords Detected",
+    "etapa": "Exploration",
+    "puerto": "30155"
   },
   {
-    "datetime": "16/11/2025 04:45",
-    "origen": "Russia",
-    "destino": "Colombia",
-    "alarma": "Malware",
-    "etapa": "Propagation",
-    "puerto": "445"
+    "datetime": "03/11/2025 22:56",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Plain Text Passwords Detected",
+    "etapa": "Exploration",
+    "puerto": "21524"
+  },
+  {
+    "datetime": "03/11/2025 21:41",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:41",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:41",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:41",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Application Usage Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:39",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:39",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:38",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:37",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:37",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:37",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:37",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:37",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:37",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:37",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:36",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:35",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "9447"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "48889"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "5443"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "54632"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51004"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51002"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51370"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51003"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51371"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "53928"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "5000"
+  },
+  {
+    "datetime": "03/11/2025 21:34",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51369"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "40375"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "44832"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "46358"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "45839"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "45050"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "9095"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "46448"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51004"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51002"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51001"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "8445"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "5002"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "46259"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "38016"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "46557"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "5443"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "65008"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "34869"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "57755"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "564"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "54632"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "3401"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "30161"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "38013"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "38017"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "39153"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "36186"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "58642"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "21005"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "23371"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "21584"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "23370"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "21602"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "30157"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20080"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20000"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20034"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "19443"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "17966"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "18445"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "Unknown",
+    "destino": "United States",
+    "alarma": "Internal URL Reconnaissance Anomaly",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:33",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:32",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:32",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "58642"
+  },
+  {
+    "datetime": "03/11/2025 21:32",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:32",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Application Usage Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:32",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:32",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:32",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:32",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:32",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:31",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:31",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:31",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:31",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Scanner Reputation Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "9000"
+  },
+  {
+    "datetime": "03/11/2025 21:31",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:30",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:30",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:30",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:30",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 21:30",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "64005"
+  },
+  {
+    "datetime": "03/11/2025 21:30",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:29",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:28",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Non-Standard Port Anomaly",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:28",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:28",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:28",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Application Usage Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:28",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Uncommon Application Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:28",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:28",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:28",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:28",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:27",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:27",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:27",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:26",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:25",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:24",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:24",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:24",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:23",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:22",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:22",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:22",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:21",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:20",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "4219"
+  },
+  {
+    "datetime": "03/11/2025 21:20",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:20",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:20",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "443"
+  },
+  {
+    "datetime": "03/11/2025 21:20",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:20",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:20",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:19",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:19",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:19",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:19",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:19",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:18",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:18",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:17",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:17",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:17",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:17",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:17",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:16",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:15",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:15",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:15",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:15",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:15",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "64945"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:14",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "45920"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20794"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20791"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20798"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20793"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20797"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Plain Text Passwords Detected",
+    "etapa": "Exploration",
+    "puerto": "64005"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20790"
+  },
+  {
+    "datetime": "03/11/2025 21:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:12",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:12",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:12",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:12",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:12",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:11",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:11",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:11",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:11",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:11",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:11",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:11",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:11",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:11",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:10",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:10",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:10",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:10",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:10",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "40159"
+  },
+  {
+    "datetime": "03/11/2025 21:09",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:09",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:09",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:09",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:09",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:09",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:09",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:08",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:08",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:08",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:08",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:08",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "8190"
+  },
+  {
+    "datetime": "03/11/2025 21:08",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "8190"
+  },
+  {
+    "datetime": "03/11/2025 21:07",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:07",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External URL Reconnaissance Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 21:07",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:07",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:07",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:07",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:07",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:07",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:06",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:06",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:06",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:06",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:06",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:06",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:06",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:06",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:05",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:05",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:05",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:05",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:05",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:04",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:04",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:04",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:04",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:04",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:04",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:03",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:03",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:03",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:03",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Plain Text Passwords Detected",
+    "etapa": "Initial Attempts",
+    "puerto": "21524"
+  },
+  {
+    "datetime": "03/11/2025 21:03",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:03",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:03",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:03",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:02",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:02",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:02",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:02",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:02",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20799"
+  },
+  {
+    "datetime": "03/11/2025 21:02",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:02",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:01",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:01",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:01",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:01",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:01",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Plain Text Passwords Detected",
+    "etapa": "Exploration",
+    "puerto": "30155"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "7751"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "46561"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "45056"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "45050"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "31000"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "45053"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "65080"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "30157"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "7751"
+  },
+  {
+    "datetime": "03/11/2025 21:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20799"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20796"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20798"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20797"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20790"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "21172"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20792"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20796"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20794"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20791"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20793"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8190"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8090"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "51029"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "51029"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "51029"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "51029"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8190"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20312"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20311"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20310"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20259"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20319"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20258"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8090"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:59",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Suspected Malicious User Agent",
+    "etapa": "Initial Attempts",
+    "puerto": "20797"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Suspected Malicious User Agent",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Uncommon Application Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:58",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:57",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:57",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:57",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:57",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:57",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:57",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Uncommon Application Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 20:57",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:56",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:56",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:56",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:56",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:55",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:55",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:55",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:55",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:55",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:54",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:53",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:53",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:53",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20792"
+  },
+  {
+    "datetime": "03/11/2025 20:53",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:52",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:52",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:52",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:52",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:52",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:52",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:52",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:52",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "46560"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20316"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "45056"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:51",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "4219"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20318"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20656"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20315"
+  },
+  {
+    "datetime": "03/11/2025 20:50",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "46561"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Application Usage Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "8090"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:49",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20253"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20258"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20254"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20252"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Application Usage Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Uncommon Application Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Plain Text Passwords Detected",
+    "etapa": "Initial Attempts",
+    "puerto": "65080"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "21172"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:48",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20311"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Non-Standard Port Anomaly",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Plain Text Passwords Detected",
+    "etapa": "Initial Attempts",
+    "puerto": "8190"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Plain Text Passwords Detected",
+    "etapa": "Initial Attempts",
+    "puerto": "8090"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Plain Text Passwords Detected",
+    "etapa": "Initial Attempts",
+    "puerto": "8190"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Plain Text Passwords Detected",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Plain Text Passwords Detected",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Plain Text Passwords Detected",
+    "etapa": "Exploration",
+    "puerto": "49394"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:47",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "30157"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:46",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:45",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20643"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20645"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20647"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20640"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20644"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20649"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Non-Standard Port Anomaly",
+    "etapa": "Exploration",
+    "puerto": "8064"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20310"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20250"
+  },
+  {
+    "datetime": "03/11/2025 20:44",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "18445"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "6229"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "50401"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "46558"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "46559"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20697"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20696"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20698"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20699"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20695"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20693"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20691"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20796"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20792"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20658"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20790"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20692"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20659"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20653"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20652"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20651"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20657"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20641"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20642"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20648"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20656"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20318"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20317"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20312"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20314"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "20313"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Private to Public Exploit Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "13963"
+  },
+  {
+    "datetime": "03/11/2025 20:42",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "65080"
+  },
+  {
+    "datetime": "03/11/2025 20:41",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "64948"
+  },
+  {
+    "datetime": "03/11/2025 20:41",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "45839"
+  },
+  {
+    "datetime": "03/11/2025 20:41",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "37417"
+  },
+  {
+    "datetime": "03/11/2025 20:41",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "30160"
+  },
+  {
+    "datetime": "03/11/2025 20:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "36186"
+  },
+  {
+    "datetime": "03/11/2025 20:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "35924"
+  },
+  {
+    "datetime": "03/11/2025 20:40",
+    "origen": "Colombia",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 20:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal URL Reconnaissance Anomaly",
+    "etapa": "Exploration",
+    "puerto": "45053"
+  },
+  {
+    "datetime": "03/11/2025 20:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "23780"
+  },
+  {
+    "datetime": "03/11/2025 20:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "24680"
+  },
+  {
+    "datetime": "03/11/2025 20:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External URL Reconnaissance Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "20313"
+  },
+  {
+    "datetime": "03/11/2025 20:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal URL Reconnaissance Anomaly",
+    "etapa": "Exploration",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 20:39",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "12584"
+  },
+  {
+    "datetime": "03/11/2025 20:39",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "18445"
+  },
+  {
+    "datetime": "03/11/2025 20:39",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "564"
+  },
+  {
+    "datetime": "03/11/2025 20:39",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "8247"
+  },
+  {
+    "datetime": "03/11/2025 20:26",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Handshake Failure",
+    "etapa": "Initial Attempts",
+    "puerto": ""
+  },
+  {
+    "datetime": "03/11/2025 20:25",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External IP / Port Scan Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "443"
+  },
+  {
+    "datetime": "03/11/2025 20:25",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External IP / Port Scan Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "80"
+  },
+  {
+    "datetime": "03/11/2025 20:06",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Plain Text Passwords Detected",
+    "etapa": "Initial Attempts",
+    "puerto": "21524"
+  },
+  {
+    "datetime": "03/11/2025 20:05",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "57187"
+  },
+  {
+    "datetime": "03/11/2025 20:00",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Plain Text Passwords Detected",
+    "etapa": "Exploration",
+    "puerto": "21525"
+  },
+  {
+    "datetime": "03/11/2025 19:57",
+    "origen": "The Netherlands",
+    "destino": "United States",
+    "alarma": "External IP / Port Scan Anomaly",
+    "etapa": "Initial Attempts",
+    "puerto": "11410"
+  },
+  {
+    "datetime": "03/11/2025 19:40",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "443"
+  },
+  {
+    "datetime": "03/11/2025 19:29",
+    "origen": "Colombia",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "51002"
+  },
+  {
+    "datetime": "03/11/2025 18:14",
+    "origen": "Colombia",
+    "destino": "United States",
+    "alarma": "External Non-Standard Port Anomaly",
+    "etapa": "Persistent Foothold",
+    "puerto": "35605"
+  },
+  {
+    "datetime": "03/11/2025 18:13",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Handshake Failure",
+    "etapa": "Exploration",
+    "puerto": ""
+  },
+  {
+    "datetime": "03/11/2025 18:13",
+    "origen": "Colombia",
+    "destino": "United States",
+    "alarma": "External Plain Text Passwords Detected",
+    "etapa": "Initial Attempts",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 18:13",
+    "origen": "Colombia",
+    "destino": "United States",
+    "alarma": "External Plain Text Passwords Detected",
+    "etapa": "Initial Attempts",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 18:13",
+    "origen": "Colombia",
+    "destino": "United States",
+    "alarma": "External Plain Text Passwords Detected",
+    "etapa": "Initial Attempts",
+    "puerto": "8088"
+  },
+  {
+    "datetime": "03/11/2025 18:10",
+    "origen": "United States",
+    "destino": "United States",
+    "alarma": "Internal Handshake Failure",
+    "etapa": "Exploration",
+    "puerto": ""
+  },
+  {
+    "datetime": "03/11/2025 18:25",
+    "origen": "",
+    "destino": "",
+    "alarma": "Acceso a archivo no autorizado",
+    "etapa": "Exfiltration & Impact",
+    "puerto": ""
   }
 ]
