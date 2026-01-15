@@ -1,0 +1,416 @@
+[
+    {
+        "datetime":"07\/01\/2026 10:56",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":30693,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:56",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":31664,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:46",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"DNS Tunneling Anomaly",
+        "etapa":"Exfiltration & Impact",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:42",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"DNS Tunneling Anomaly",
+        "etapa":"Exfiltration & Impact",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:41",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External User Application Usage Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":443,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:36",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Internal User Application Usage Anomaly",
+        "etapa":"Propagation",
+        "puerto":88,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:35",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":443,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:32",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Internal User Application Usage Anomaly",
+        "etapa":"Propagation",
+        "puerto":88,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:30",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"DNS Tunneling Anomaly",
+        "etapa":"Exfiltration & Impact",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:30",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Uncommon Top-Level Domain Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:30",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Internal User Application Usage Anomaly",
+        "etapa":"Propagation",
+        "puerto":389,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:27",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"DNS Tunneling Anomaly",
+        "etapa":"Exfiltration & Impact",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:27",
+        "origen":"United States",
+        "destino":"Mexico",
+        "alarma":"External SYN Flood Attacker",
+        "etapa":"Exfiltration & Impact",
+        "puerto":139,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:27",
+        "origen":"United States",
+        "destino":"Mexico",
+        "alarma":"External IP \/ Port Scan Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":139,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:26",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External User Application Usage Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":443,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:21",
+        "origen":"United States",
+        "destino":"Mexico",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":80,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:20",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"DNS Tunneling Anomaly",
+        "etapa":"Exfiltration & Impact",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:19",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Uncommon Application Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":443,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:15",
+        "origen":"United States",
+        "destino":"Unknown",
+        "alarma":"Uncommon Application Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":443,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:13",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Uncommon Top-Level Domain Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:11",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External User Application Usage Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":443,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:10",
+        "origen":"United States",
+        "destino":"Sweden",
+        "alarma":"External Other Malware",
+        "etapa":"Persistent Foothold",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:10",
+        "origen":"United States",
+        "destino":"Russia",
+        "alarma":"External Other Malware",
+        "etapa":"Persistent Foothold",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:10",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Other Malware",
+        "etapa":"Persistent Foothold",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:10",
+        "origen":"United States",
+        "destino":"Russia",
+        "alarma":"External Other Malware",
+        "etapa":"Persistent Foothold",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:08",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":31661,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:07",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"DNS Tunneling Anomaly",
+        "etapa":"Exfiltration & Impact",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:07",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Uncommon Top-Level Domain Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":53,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:06",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":443,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:06",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Internal User Application Usage Anomaly",
+        "etapa":"Propagation",
+        "puerto":389,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:03",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Internal User Application Usage Anomaly",
+        "etapa":"Propagation",
+        "puerto":49671,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:02",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Internal User Application Usage Anomaly",
+        "etapa":"Propagation",
+        "puerto":88,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:00",
+        "origen":"United States",
+        "destino":"Mexico",
+        "alarma":"Uncommon Application Anomaly",
+        "etapa":"Initial Attempts",
+        "puerto":80,
+        "tenant":"INTER"
+    },
+    {
+        "datetime":"07\/01\/2026 10:55",
+        "origen":"Colombia",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":45053,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:53",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Internal Non-Standard Port Anomaly",
+        "etapa":"Exploration",
+        "puerto":2710,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:48",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Internal Plain Text Passwords Detected",
+        "etapa":"Exploration",
+        "puerto":21524,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:38",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":31000,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:37",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":31000,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:37",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":31000,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:37",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":31000,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:37",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":31000,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:36",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":31000,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:35",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":31000,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:24",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":30010,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:21",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"Internal Non-Standard Port Anomaly",
+        "etapa":"Exploration",
+        "puerto":20029,
+        "tenant":"Movii"
+    },
+    {
+        "datetime":"07\/01\/2026 10:08",
+        "origen":"United States",
+        "destino":"United States",
+        "alarma":"External Non-Standard Port Anomaly",
+        "etapa":"Persistent Foothold",
+        "puerto":8088,
+        "tenant":"Movii"
+    }
+]
